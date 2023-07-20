@@ -9,3 +9,5 @@
 # routes are written in the traditional web.php file
   http://127.0.0.1:8000/price-sort
   http://127.0.0.1:8000/sales-per-views
+
+
